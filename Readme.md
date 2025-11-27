@@ -1,17 +1,3 @@
-To jest świetny pomysł. Profesjonalna dokumentacja (`README.md`) w repozytorium to znak dla klienta: *"Ten gość nie tylko napisał kod, ale dba o to, żeby łatwo się go używało"*. To też ułatwi sprawę jego programiście, który będzie to wpinał.
-
-Przygotowałem dla Ciebie treść pliku `README.md`. Jest sformatowana w Markdown (standard dla GitHub).
-
-### Co musisz zrobić:
-
-1.  Otwórz plik `README.md` w swoim edytorze kodu (VS Code).
-2.  Skasuj wszystko, co tam jest.
-3.  Wklej poniższą treść.
-4.  Zapisz i wyślij na GitHuba (komendy na dole).
-
------
-
-### Treść do wklejenia do `README.md`:
 
 ````markdown
 # 🍳 Kalkulator Kuchenny & Skaler Porcji (Kitchen Converter)

@@ -7,8 +7,8 @@ const ingredients = [
         density: 0.64, 
         nutrition: { kcal: 364, protein: 10, fat: 1, carbs: 76 }, 
         names: {
-            pl: "Mąka pszenna",        // Do listy wyboru (Mianownik)
-            pl_recipe: "Mąki pszennej", // Do przepisu (Dopełniacz) <--- NOWOŚĆ
+            pl: "Mąka pszenna",        
+            pl_recipe: "Mąki pszennej", 
             en: "Wheat flour", 
             el: "αλεύρι σίτου"
         }
@@ -20,7 +20,7 @@ const ingredients = [
         nutrition: { kcal: 155, protein: 13, fat: 11, carbs: 1.1 }, 
         names: {
             pl: "Jajka", 
-            pl_recipe: "Jajek",         // <--- NOWOŚĆ
+            pl_recipe: "Jajek",        
             en: "Eggs", 
             el: "Αυγά"
         }
@@ -31,7 +31,7 @@ const ingredients = [
         nutrition: { kcal: 42, protein: 3.4, fat: 1.5, carbs: 5 }, 
         names: {
             pl: "Mleko", 
-            pl_recipe: "Mleka",         // <--- NOWOŚĆ
+            pl_recipe: "Mleka",        
             en: "Milk", 
             el: "Γάλα"
         }
@@ -42,7 +42,7 @@ const ingredients = [
         nutrition: { kcal: 884, protein: 0, fat: 100, carbs: 0 }, 
         names: {
             pl: "Oliwa", 
-            pl_recipe: "Oliwy",         // <--- NOWOŚĆ
+            pl_recipe: "Oliwy",         
             en: "Olive Oil", 
             el: "Ελαιόλαδο"
         }
